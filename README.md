@@ -1,4 +1,4 @@
-The workflow of this project are as follows:
+The workflow of this project is as follows:
 
 User Input for Zip Codes:
 
